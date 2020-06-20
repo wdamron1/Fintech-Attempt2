@@ -10,7 +10,9 @@
 3. Repository Page
 
 Links to Sub Folders
-[GitHub](https://github.com/)
-[GitHub Profile](https://github.com/wdamron1/)
-[Link to Repository](https://github.com/wdamron1/Fintech-Attempt2)
+*[GitHub](https://github.com/)
+
+*[GitHub Profile](https://github.com/wdamron1/)
+
+*[Link to Repository](https://github.com/wdamron1/Fintech-Attempt2)
 
