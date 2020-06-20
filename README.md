@@ -6,7 +6,7 @@
 
 ### Table of Contents
 1. GitHub Website
-2. Your user Profile page
+2. User Profile Page
 3. Repository Page
 
 Links to Sub Folders
